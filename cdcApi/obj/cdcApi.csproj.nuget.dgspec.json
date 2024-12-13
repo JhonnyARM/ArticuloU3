@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\TopicosBaseDatos\\ArticuloU3\\cdcApi\\cdcApi.csproj": {}
+    "C:\\Users\\Usuario\\topicosbasedatos\\ArticuloU3\\cdcApi\\cdcApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\TopicosBaseDatos\\ArticuloU3\\cdcApi\\cdcApi.csproj": {
+    "C:\\Users\\Usuario\\topicosbasedatos\\ArticuloU3\\cdcApi\\cdcApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\TopicosBaseDatos\\ArticuloU3\\cdcApi\\cdcApi.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\topicosbasedatos\\ArticuloU3\\cdcApi\\cdcApi.csproj",
         "projectName": "cdcApi",
-        "projectPath": "C:\\Users\\Usuario\\TopicosBaseDatos\\ArticuloU3\\cdcApi\\cdcApi.csproj",
+        "projectPath": "C:\\Users\\Usuario\\topicosbasedatos\\ArticuloU3\\cdcApi\\cdcApi.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\TopicosBaseDatos\\ArticuloU3\\cdcApi\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\topicosbasedatos\\ArticuloU3\\cdcApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GecK9CnXacE=",
+  "dgSpecHash": "OUhevLQW6C0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\TopicosBaseDatos\\ArticuloU3\\cdcApi\\cdcApi.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\topicosbasedatos\\ArticuloU3\\cdcApi\\cdcApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
